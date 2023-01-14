@@ -1,5 +1,5 @@
 # Body_Pose_Detection_Gym
-![image](https://user-images.githubusercontent.com/60461956/212487392-d80b1632-cfa8-4095-86da-d67fc1184e3d.png)
+![image](https://user-images.githubusercontent.com/60461956/212487794-b1ee4156-37dc-4cf0-b461-dd296501bbc0.png)
 
 The idea was to build a fully functioning real-time system to detect and estimate the body language and emotion sequence of a human.
 Depending on the use case the same can be used in the field of surveillance, AI self-coaching fitness apps, and animation/gaming.
